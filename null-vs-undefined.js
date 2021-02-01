@@ -14,21 +14,22 @@ function sum(num1, num2) {
 const result2 = sum(15);
 console.log(result2);
 
-const premik = {name:'cool boy Rohi Ullah', phone:'12655416541'}
-console.log('premik',premik.gf);
+const premik = {
+    name: 'cool boy Rohi Ullah',
+    phone: '12655416541'
+}
+console.log('premik', premik.gf);
 
 let fun = undefined;
 console.log(fun);
 
-let ages =[10,12,15,12,16,23]
+let ages = [10, 12, 15, 12, 16, 23]
 console.log(ages[11]);
 
-function doSomething(x, y){
+function doSomething(x, y) {
 
     console.log(y);
-    
-    }
-    
-    doSomething(32);
-    
-    
+
+}
+
+doSomething(32);
