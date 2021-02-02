@@ -34,3 +34,9 @@ console.log(output2);
 
 const bigger = numbers.filter(x => x > 5);
 console.log(bigger);
+
+const bigger2 = numbers.filter(x => x < 10);
+console.log(bigger2);
+
+const isThere = numbers.find(x => x > 5);
+console.log(isThere);
