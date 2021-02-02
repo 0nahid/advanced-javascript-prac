@@ -14,5 +14,5 @@ console.log(clock1());
 const clock2 = stopWatch();
 console.log(clock2());
 console.log(clock2());
-console.log(clock2());
+console.log(clock1());
 console.log(clock2());
